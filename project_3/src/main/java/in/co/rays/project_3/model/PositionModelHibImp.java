@@ -3,7 +3,7 @@ package in.co.rays.project_3.model;
 import java.util.List;
 
 import org.hibernate.Criteria;
-import org.hibernate.HibernateException;
+import org.hibernate.HibernateException; 
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.hibernate.criterion.Restrictions;
