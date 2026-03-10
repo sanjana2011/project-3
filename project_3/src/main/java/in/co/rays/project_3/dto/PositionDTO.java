@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class PositionDTO extends BaseDTO {
 
-	private String Designation;
+	private String Designation; 
 	private Date Dob;
 	private String ReqExp;
 	private String Conditions;
