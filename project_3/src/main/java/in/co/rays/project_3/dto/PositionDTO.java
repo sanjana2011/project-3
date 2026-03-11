@@ -1,6 +1,6 @@
 package in.co.rays.project_3.dto;
 
-import java.util.Date;
+import java.util.Date; 
 
 public class PositionDTO extends BaseDTO {
 
