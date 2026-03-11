@@ -14,7 +14,7 @@
 
 <style type="text/css">
 i.css {
-	border: 2px solid #8080803b;
+	border: 2px solid #8080803b; 
 	padding-left: 10px;
 	padding-bottom: 11px;
 	background-color: #ebebe0;
