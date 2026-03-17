@@ -4,7 +4,7 @@ import java.util.List;
 
 import in.co.rays.project_3.dto.PositionDTO;
 import in.co.rays.project_3.exception.ApplicationException;
-import in.co.rays.project_3.exception.DuplicateRecordException;
+import in.co.rays.project_3.exception.DuplicateRecordException;   
 
 
 public interface PositionModelInt {
