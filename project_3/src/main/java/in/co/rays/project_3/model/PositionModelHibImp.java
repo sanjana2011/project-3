@@ -9,7 +9,7 @@ import org.hibernate.Transaction;
 import org.hibernate.criterion.Restrictions;
 import in.co.rays.project_3.dto.PositionDTO;
 import in.co.rays.project_3.exception.ApplicationException;
-import in.co.rays.project_3.exception.DuplicateRecordException;
+import in.co.rays.project_3.exception.DuplicateRecordException;   
 import in.co.rays.project_3.util.HibDataSource;
 
 public class PositionModelHibImp implements PositionModelInt {
