@@ -10,7 +10,7 @@ public class PositionDTO extends BaseDTO {
 	private String Conditions;
 
 	public String getDesignation() {
-		return Designation;
+		return Designation;   
 	}
 
 	public void setDesignation(String designation) {
