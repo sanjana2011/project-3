@@ -1,4 +1,4 @@
-<%@page import="in.co.rays.project_3.controller.PositionCtl"%>
+<%@page import="in.co.rays.project_3.controller.PositionCtl"%>   
 <%@page import="in.co.rays.project_3.util.HTMLUtility"%>
 <%@page import="java.util.HashMap"%>
 <%@page import="in.co.rays.project_3.util.ServletUtility"%>
