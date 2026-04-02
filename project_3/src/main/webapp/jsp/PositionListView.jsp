@@ -1,4 +1,4 @@
-<%@page import="java.util.HashMap"%>
+<%@page import="java.util.HashMap"%>    
 <%@page import="in.co.rays.project_3.controller.PositionListCtl"%>
 <%@page import="in.co.rays.project_3.util.HTMLUtility"%>
 <%@page import="in.co.rays.project_3.dto.PositionDTO"%>
